@@ -13,9 +13,13 @@ It integrates a **Flask backend** powered by **Hugging Face Transformers (BERT)*
 ### 🚀 Features
 
 ✅ Real-time sentiment prediction using fine-tuned BERT model
+
 ✅ RESTful Flask API for scalable text analysis
+
 ✅ Interactive React frontend with modern UI design
+
 ✅ Confidence scores and sentiment visualization
+
 ✅ Modular full-stack architecture for deployment readiness
 
 ---
