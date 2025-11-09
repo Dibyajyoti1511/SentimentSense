@@ -1,0 +1,9 @@
+flask
+flask-cors
+transformers
+datasets
+torch
+uvicorn
+gunicorn
+accelerate
+sentencepiece
