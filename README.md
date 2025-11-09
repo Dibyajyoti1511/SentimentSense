@@ -1,8 +1,5 @@
 # SentimentSense
-A full-stack AI-powered sentiment analysis web app using Transformers (BERT) for emotion detection in text.
-
-Perfect 👏 Here’s your **final professional `README.md`** for your full-stack AI project — **SentimentSense**.
-This version is recruiter-ready and fits both **SDE** and **AI/ML** portfolios.
+A full-stack AI-powered sentiment analysis web app using Transformers (BERT) for emotion detection in text
 
 
 
